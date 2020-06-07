@@ -48,23 +48,10 @@ nav ul li{
 .dreamer {
     text-transform: uppercase;
 }
-.about-text p {
-    display: inline-block;
-    width: 50%;
-}
-/* .about-image {
-    width: 200px;
-    img {
-        width: 150px;
-        height: 80px;
-    }
-} */
+
 .about-image img {
     display: inline-block;
     width: 350px;
     vertical-align: top;
-    /* @media (max-width: 425px) {
-        width: 100%;
-    } */
 }
 /* media queries */
