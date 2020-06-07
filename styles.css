@@ -40,18 +40,19 @@ nav ul li{
 
 .aspiring {
     top: 100px;
-    padding: 50px;
-    /* display: flex;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    display: flex;
     justify-content: space-between;
-    align-items: center; */
+    align-items: center;
 }
-.dreamer {
-    text-transform: uppercase;
+.dreamer span{
+    font-size: 24px;
+}
+.kiruma p{
+    font-size: 22px;
+    margin-top: 80px;
 }
 
-.about-image img {
-    display: inline-block;
-    width: 350px;
-    vertical-align: top;
-}
-/* media queries */
