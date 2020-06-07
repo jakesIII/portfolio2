@@ -93,3 +93,19 @@ nav ul li{
     text-decoration: underline;
     text-decoration-color: rgba(12, 86, 197, 0.658);
 }
+
+.socials li{
+    list-style: none;
+    margin: 20px;
+}
+
+.socials ul{
+    display: flex;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+footer{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 15%;
+}
