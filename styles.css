@@ -2,15 +2,16 @@
     margin: 0px;    
 }
 
-header h3{    
+header h2{    
     margin: 10px;  
     font-style: italic;
-    font-weight: 800;  
+    font-weight: 800;      
 }
-header h3 a{
+header h2 a{
     color: black;
+    font-size: 32px;
 }
-header h3 a:hover{
+header h2 a:hover{
     color: black;
     text-decoration: none;
 }
@@ -55,8 +56,8 @@ nav ul li{
 .dreamer span{
     font-size: 24px;
 }
-.kiruma p{
-    font-size: 22px;
+.kiruma{
+    font-size: 19px;
     margin-top: 80px;
 }
 
@@ -81,16 +82,17 @@ nav ul li{
 
 .haki-desc p{
     margin-top: 30px;
+    
 }
 
 .rumah{
     color: black;
-    font-size: 17px; 
+    font-size: 19px; 
     text-decoration: underline black;
 }
 .rumah:hover{
     color: black;
-    font-size: 17px;
+    font-size: 19px;
     text-decoration: underline;
     text-decoration-color: rgba(12, 86, 197, 0.658);
 }
@@ -109,4 +111,8 @@ footer{
     display: flex;
     justify-content: flex-end;
     padding-right: 15%;
+}
+
+.setit p,li,a{
+    font-size: 19px;
 }
