@@ -24,6 +24,7 @@ nav ul{
     list-style: none;
     display: flex;
     flex-direction: row;
+    /* → */
 }
 nav ul a{
     color: black;
@@ -119,4 +120,8 @@ footer{
 
 .about{
     display: flex;
+}
+
+@media all and (max-width:700px){
+   
 }
